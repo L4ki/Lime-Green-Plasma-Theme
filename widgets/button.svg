@@ -34,8 +34,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="2.6416933"
-     inkscape:cx="80.589058"
-     inkscape:cy="99.330365"
+     inkscape:cx="19.075483"
+     inkscape:cy="54.472773"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -85,6 +85,18 @@
   </metadata>
   <defs
      id="defs5">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3326">
+      <stop
+         style="stop-color:#00b988;stop-opacity:1;"
+         offset="0"
+         id="stop3322" />
+      <stop
+         style="stop-color:#00b988;stop-opacity:0;"
+         offset="1"
+         id="stop3324" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3184">
       <stop
@@ -12629,17 +12641,6 @@
        cy="30"
        r="42" />
     <radialGradient
-       inkscape:collect="always"
-       xlink:href="#radialGradient10592-81-3-5-8-8"
-       id="radialGradient13670"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.72475641,0.00207937,-3.7935892e-4,0.04643201,14.048262,28.501191)"
-       cx="51"
-       cy="30"
-       r="42"
-       fx="51"
-       fy="30" />
-    <radialGradient
        gradientTransform="matrix(0.72146,0,0,0.27484,14.205,21.755)"
        r="42"
        cy="30"
@@ -13294,6 +13295,17 @@
        y1="796.99933"
        x2="208"
        y2="779.31116" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3326"
+       id="radialGradient3332"
+       cx="52.046032"
+       cy="65.68499"
+       fx="52.046032"
+       fy="65.68499"
+       r="42"
+       gradientTransform="matrix(0.65567443,0.00202836,-5.971055e-4,0.06778131,18.049602,25.742169)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
      height="27"
@@ -13570,7 +13582,7 @@
     <path
        transform="matrix(1,0,0,1.5625,432.09,515.16)"
        d="M 9,30 C 9,21.163 27.804,14 51,14 74.196,14 93,21.163 93,30 H 51 z"
-       style="opacity:0.4625;color:#000000;fill:url(#radialGradient13670)"
+       style="opacity:0.45;color:#000000;fill:url(#radialGradient3332);fill-opacity:1"
        id="path34506-3-4-0-6-2"
        inkscape:connector-curvature="0" />
   </g>
