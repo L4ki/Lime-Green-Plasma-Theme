@@ -10,3 +10,10 @@ Changelog: 05.09.2019.
 ----------------------
 
 Add icons: battery.svg, input.svg
+
+
+
+Changelog: 30.12.2019.
+----------------------
+
+Redesigned Theme
