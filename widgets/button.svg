@@ -22,8 +22,8 @@
    sodipodi:version="0.32"
    id="svg2">
   <sodipodi:namedview
-     inkscape:window-height="977"
-     inkscape:window-width="1280"
+     inkscape:window-height="1033"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -33,9 +33,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.6416933"
-     inkscape:cx="19.075483"
-     inkscape:cy="54.472773"
+     inkscape:zoom="7.471837"
+     inkscape:cx="47.569075"
+     inkscape:cy="172.54135"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -48,7 +48,7 @@
      inkscape:object-nodes="true"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="true"
-     inkscape:snap-to-guides="true"
+     inkscape:snap-to-guides="false"
      inkscape:snap-grids="true"
      inkscape:snap-text-baseline="true">
     <inkscape:grid
@@ -89,11 +89,11 @@
        inkscape:collect="always"
        id="linearGradient3326">
       <stop
-         style="stop-color:#00b988;stop-opacity:1;"
+         style="stop-color:#05ffbd;stop-opacity:1"
          offset="0"
          id="stop3322" />
       <stop
-         style="stop-color:#00b988;stop-opacity:0;"
+         style="stop-color:#00976f;stop-opacity:0"
          offset="1"
          id="stop3324" />
     </linearGradient>
@@ -13304,7 +13304,7 @@
        fx="52.046032"
        fy="65.68499"
        r="42"
-       gradientTransform="matrix(0.65567443,0.00202836,-5.971055e-4,0.06778131,18.049602,25.742169)"
+       gradientTransform="matrix(0.6652342,1.4002303e-4,-4.0623749e-5,0.06778223,17.515502,25.840389)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
@@ -13313,7 +13313,7 @@
      y="-35"
      width="84"
      id="normal-center"
-     style="opacity:0.2;fill:#383c4a;fill-opacity:1;stroke:none"
+     style="opacity:0.3;fill:#28313d;fill-opacity:1;stroke:none"
      inkscape:label="#rect2274-2-4"
      transform="scale(1,-1)" />
   <g
@@ -13443,7 +13443,7 @@
      inkscape:label="#normal-topright"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.35;fill:url(#radialGradient113327);fill-opacity:1;stroke:none"
+     style="opacity:0.01;fill:url(#radialGradient113327);fill-opacity:1;stroke:none"
      d="m 22,7 0,1 84,0 0,-1 -84,0 z"
      id="normal-top"
      inkscape:label="#normal-top"
@@ -13452,7 +13452,7 @@
      transform="translate(174,30)"
      id="pressed-center">
     <rect
-       style="opacity:0.7;fill:#383c4a;fill-opacity:0.62352943;stroke:none"
+       style="opacity:0.50000001;fill:#00b988;fill-opacity:1;stroke:none"
        id="rect2274-2-4-5"
        width="84"
        y="-57"

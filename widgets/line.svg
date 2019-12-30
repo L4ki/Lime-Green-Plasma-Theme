@@ -30,9 +30,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.3298084"
-     inkscape:cx="-8.8833504"
-     inkscape:cy="20.268396"
+     inkscape:zoom="33.319234"
+     inkscape:cx="6.5028589"
+     inkscape:cy="33.9427"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
@@ -130,8 +130,8 @@
          class="ColorScheme-Text"
          inkscape:label="#path2998" />
       <path
-         style="color:#eff0f1;fill:currentColor;fill-opacity:0.1;stroke:none;opacity:0.01"
-         d="m 33.96875,13.59375 0,40 1,0 0,-40 -1,0 z"
+         style="color:#eff0f1;opacity:0.01000001;fill:currentColor;fill-opacity:0.1;stroke:none;stroke-width:0.99999988"
+         d="m 33.96875,13.59375 v 40 h 1 v -40 z"
          id="path3785"
          inkscape:connector-curvature="0"
          class="ColorScheme-Background"
@@ -141,8 +141,8 @@
          class="ColorScheme-Text"
          inkscape:connector-curvature="0"
          id="path2998"
-         d="m 33.96875,13.59375 v 40 h 0.2 v -40 z"
-         style="color:#31363b;fill:#00b988;fill-opacity:1;stroke:none;stroke-width:0.44721362" />
+         d="m 33.96875,13.59375 v 40 h 0.25 v -40 z"
+         style="color:#31363b;fill:#00b988;fill-opacity:1;stroke:none;stroke-width:0.5" />
     </g>
     <g
        id="horizontal-line"
